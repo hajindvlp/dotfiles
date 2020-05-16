@@ -19,6 +19,9 @@ shopt -s histappend
 HISTSIZE=1000
 HISTFILESIZE=2000
 
+# wsl vscode alias
+alias code="/mnt/c/Users/harry/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code.cmd"
+
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
 shopt -s checkwinsize
