@@ -15,7 +15,3 @@ set colorcolumn=0
 set backspace=indent,eol,start
 
 set directory^=$HOME/.vim/swp//
-
-call plug#begin('~/.vim/plugged')
-Plug 'jelera/vim-javascript-syntax'
-call plug#end()
